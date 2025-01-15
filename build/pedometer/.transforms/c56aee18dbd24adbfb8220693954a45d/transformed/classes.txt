@@ -1,0 +1,5 @@
+com/example/pedometer/PedometerPlugin.class
+com/example/pedometer/R.class
+com/example/pedometer/SensorEventListenerFactoryKt$sensorEventListener$1.class
+com/example/pedometer/SensorEventListenerFactoryKt.class
+com/example/pedometer/SensorStreamHandler.class

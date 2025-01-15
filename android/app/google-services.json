@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "180933679268",
+    "project_id": "test-8c976",
+    "storage_bucket": "test-8c976.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180933679268:android:d8961245a09ca32e112e31",
+        "android_client_info": {
+          "package_name": "com.mdl.huawei"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180933679268-iuudk917u1tq2ub44mqrm8jb1fj5uo59.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mdl.huawei",
+            "certificate_hash": "a979b1b15ab6a1d4663e79347304f4132b0df6fc"
+          }
+        },
+        {
+          "client_id": "180933679268-ladnltag15a333qljhp2t96fcg228ei1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdBpGtn81eitqA5nc6OwI41sjU5FXerCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180933679268-ladnltag15a333qljhp2t96fcg228ei1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "180933679268-7s63m598gclubbg5i5hqb7q5bhra7vm2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mulaiajaduluid"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180933679268:android:c1a85407db635149112e31",
+        "android_client_info": {
+          "package_name": "com.mulaiajaduluid.huawei"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180933679268-ladnltag15a333qljhp2t96fcg228ei1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdBpGtn81eitqA5nc6OwI41sjU5FXerCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180933679268-ladnltag15a333qljhp2t96fcg228ei1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "180933679268-7s63m598gclubbg5i5hqb7q5bhra7vm2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mulaiajaduluid"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

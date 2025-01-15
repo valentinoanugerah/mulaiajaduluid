@@ -1,0 +1,78 @@
+name: mulaiajaduluid
+description: "A new Flutter project."
+publish_to: 'none' # Hapus ini jika ingin mempublikasikan di pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  firebase_core: ^3.9.0
+  firebase_auth: ^5.3.4
+  cloud_firestore: ^5.6.1
+  google_sign_in: ^6.1.4
+  provider: ^6.1.2
+  firebase_ui_auth: ^1.16.0
+  image_picker: ^1.1.2
+  fluttertoast: ^8.0.9
+  firebase_storage: ^12.3.7
+  cloudinary_sdk: ^5.0.0+1
+  location: ^7.0.1
+  geolocator: ^13.0.2
+  open_meteo: ^2.0.3
+  geocoding: ^3.0.0
+  permission_handler: ^11.0.1
+  fl_chart: ^0.65.0
+  pedometer: ^4.0.2
+  flutter_local_notifications: ^18.0.1
+  timezone: ^0.10.0
+  shared_preferences: ^2.3.5
+  workmanager: ^0.5.2
+  firebase_messaging: ^15.2.0
+  
+flutter_localization:
+  sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  rename: ^3.0.2
+  flutter_launcher_icons: ^0.9.2
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/img/poster.jpg
+    - assets/img/fisik.png
+    - assets/img/mental.png
+    - assets/img/statistik.png
+    - assets/img/bun.png
+    - assets/img/home.png
+    - assets/img/game.png
+    - assets/img/watch.png
+    - assets/img/moon.png
+    - assets/img/tidur.png
+    - assets/img/user.png
+    - assets/img/google.png
+    - assets/img/apple.png
+    - assets/img/kaysan_profile.png
+    - assets/img/ivan_profile.png
+    - assets/img/info_profile.png
+    - assets/img/pengaturan_akun.png
+    - assets/img/pengaturan_aplikasi.png
+    - assets/img/tentang_kami.png
+    - assets/img/smart_watch.png
+    - assets/img/batre.png
+    - assets/img/kesehatan_mental.png
+    - assets/img/kesehatan_fisik.png
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/img/logo.png"  # Ganti dengan path ke logo yang kamu inginkan
