@@ -1,2 +1,0 @@
-com/example/desktop_webview_auth/DesktopWebviewAuthPlugin.class
-io/invertase/desktop_webview_auth/R.class

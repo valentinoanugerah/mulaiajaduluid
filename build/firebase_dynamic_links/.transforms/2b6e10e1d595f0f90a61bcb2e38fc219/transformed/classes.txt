@@ -1,6 +1,0 @@
-io/flutter/plugins/firebase/dynamiclinks/BuildConfig.class
-io/flutter/plugins/firebase/dynamiclinks/Constants.class
-io/flutter/plugins/firebase/dynamiclinks/FlutterFirebaseAppRegistrar.class
-io/flutter/plugins/firebase/dynamiclinks/FlutterFirebaseDynamicLinksPlugin.class
-io/flutter/plugins/firebase/dynamiclinks/R.class
-io/flutter/plugins/firebase/dynamiclinks/Utils.class
