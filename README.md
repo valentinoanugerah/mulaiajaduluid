@@ -36,12 +36,10 @@ MulaiAjaDulu adalah aplikasi yang dirancang untuk memberikan solusi praktis bagi
    flutter run
    ```
 
-## Kontribusi
-Kami menyambut kontribusi dari siapa pun yang tertarik untuk meningkatkan aplikasi ini. Silakan ajukan pull request atau buat issue jika menemukan masalah.
-
-## Lisensi
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ---
 
-Terima kasih telah menggunakan MulaiAjaDulu! Jangan ragu untuk menghubungi kami untuk pertanyaan atau saran.
+@DINACOM2025
+---
+#perubahankecil, langkah pasti menuju perubahan besar.
+
