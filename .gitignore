@@ -17,7 +17,18 @@ migrate_working_dir/
 *.ipr
 *.iws
 .idea/
+# Tambahkan ini di bagian akhir file .gitignore yang sudah ada:
 
+# Large file exclusions
+android/.gradle/nb-cache/
+**/kernel_blob.bin
+*.apk
+*.aab
+*.ser
+
+# Additional build outputs
+**/build/app/intermediates/
+**/build/app/outputs/
 # The .vscode folder contains launch configuration and tasks you configure in
 # VS Code which you may wish to be included in version control, so this line
 # is commented out by default.
@@ -43,3 +54,4 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
