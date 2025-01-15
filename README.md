@@ -1,3 +1,7 @@
 # mulaiajaduluid
 
-A new Flutter project.
+@PxCode 
+team:
+Valentino Anugerah
+Ivan Maulana
+Kaysan Nawfal 
