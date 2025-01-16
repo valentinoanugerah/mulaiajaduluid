@@ -1,5 +1,7 @@
 # MulaiAjaDulu
 
+[Visit Website](https://mulaiajadulu.web.id)
+
 ## Deskripsi
 MulaiAjaDulu adalah aplikasi yang dirancang untuk memberikan solusi praktis bagi pengguna yang ingin memulai kebiasaan baru dengan cara yang sederhana dan efektif. Aplikasi ini membantu pengguna menetapkan tujuan (goals) dan memberikan pengingat melalui notifikasi.
 
